@@ -1,0 +1,3 @@
+this assignment involves javafx
+we make a bts for vocab.txt
+hello world
